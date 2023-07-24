@@ -1,0 +1,56 @@
+{
+	"id": 1032,
+	"name": "STU",
+	"description": "Stu the schmuck. Just a little guy doing his best to find his place in the world.",
+	"links": {
+		"subreddit": [
+			"stu_the_critter",
+			"PLANFA"
+		],
+		"discord": [
+			"Fut9kq6F"
+		]
+	},
+	"path": {
+		"108-169": [
+			[
+				-739,
+				-105
+			],
+			[
+				-739,
+				-79
+			],
+			[
+				-707,
+				-79
+			],
+			[
+				-706,
+				-106
+			],
+			[
+				-707,
+				-106
+			],
+			[
+				-707,
+				-107
+			],
+			[
+				-723,
+				-107
+			],
+			[
+				-723,
+				-105
+			]
+		]
+	},
+	"center": {
+		"108-169": [
+			-720,
+			-92
+		]
+	}
+}

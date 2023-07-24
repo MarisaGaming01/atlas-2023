@@ -1,0 +1,100 @@
+{
+	"id": -1,
+	"name": "Osaka",
+	"description": "Osaka (also known as \"Ayumu Kasuga\") from the 1999 slice of life manga \"Azumanga Daioh!\". Osaka is portrayed within both the anime and the manga as a bubbly and airheaded girl, which due to her relatability, caused her to have a cult following within the anime community. She's also literally me fr fr.",
+	"links": {
+		"subreddit": [
+			"AzuDaioh",
+			"Osaker"
+		],
+		"discord": [
+			"ncE9dYcNWz"
+		]
+	},
+	"path": {
+		"168": [
+			[
+				-762,
+				-106
+			],
+			[
+				-762,
+				-115
+			],
+			[
+				-761,
+				-115
+			],
+			[
+				-761,
+				-116
+			],
+			[
+				-761,
+				-118
+			],
+			[
+				-760,
+				-118
+			],
+			[
+				-760,
+				-119
+			],
+			[
+				-759,
+				-119
+			],
+			[
+				-759,
+				-120
+			],
+			[
+				-751,
+				-120
+			],
+			[
+				-751,
+				-119
+			],
+			[
+				-750,
+				-119
+			],
+			[
+				-750,
+				-118
+			],
+			[
+				-749,
+				-118
+			],
+			[
+				-749,
+				-117
+			],
+			[
+				-748,
+				-117
+			],
+			[
+				-748,
+				-115
+			],
+			[
+				-747,
+				-115
+			],
+			[
+				-747,
+				-106
+			]
+		]
+	},
+	"center": {
+		"168": [
+			-754,
+			-113
+		]
+	}
+}
